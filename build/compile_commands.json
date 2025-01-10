@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/BLACKJACK/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/blackjack.dir/main.cpp.o -c /Users/dominicchristiansen/Downloads/CS/BLACKJACK/main.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/BLACKJACK/main.cpp",
+  "output": "CMakeFiles/blackjack.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/dominicchristiansen/Downloads/CS/BLACKJACK/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/blackjack.dir/blackjack.cpp.o -c /Users/dominicchristiansen/Downloads/CS/BLACKJACK/blackjack.cpp",
+  "file": "/Users/dominicchristiansen/Downloads/CS/BLACKJACK/blackjack.cpp",
+  "output": "CMakeFiles/blackjack.dir/blackjack.cpp.o"
+}
+]
